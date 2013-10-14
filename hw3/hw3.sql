@@ -35,7 +35,7 @@ group by s.statecode);
 
 /* Put your SQL for Q3 below */
 
-/* Q4 - return a count of how many states have more than the average number of counties TODO*/
+/* Q4 - return a count of how many states have more than the average number of counties */
 select " ";
 select "Q4";
 select COUNT(*)
